@@ -25,6 +25,8 @@ met_guess::
   qr      127      12         rain                 qr
   qs      127      12         snow                 qs
   qg      127      12         graupel              qg
+  ni      127       1         cloud_ice conc       ni
+  nr      127       1         rain conc            nr
 ! cf      127       1         cloud amount         cf
 ::
 
